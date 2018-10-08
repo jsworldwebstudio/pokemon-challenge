@@ -1,0 +1,27 @@
+.card-subtitle {
+  margin-bottom: 5px;
+}
+
+.card-deck {
+  flex-direction: row;
+}
+
+.container .container {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+
+.container .row {
+  margin-top: 50px;
+}
+
+.container .pokemon-list {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+
+.card-deck .card {
+  margin: 15px;
+}
